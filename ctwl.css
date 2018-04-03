@@ -1,0 +1,22 @@
+header{
+	font-family:"comic sans ms";
+	font-size: 40px;
+	color:#51408e;
+	font-style: italic;
+	text-align: center;
+	padding-bottom: 30px;
+	position: absolute;
+	left: 32%;
+}
+.style{
+  text-align: center;
+  font-size: 35px;
+  color: #2c2c2d;
+}
+.img{
+  width: 30%;
+  /*height: 40%;*/
+}
+.text{
+  font-size: 20px;
+}
